@@ -3,7 +3,7 @@
 A high-performance, interactive 2D vector portfolio designed for an AI Automation Engineer. Built entirely with vanilla web technologies, this portfolio features a generative background, Web Audio API integration, and complex SVG micro-interactions.
 
 ## 🚀 Live Demo
-[Insert your GitHub Pages Link Here]
+[ https://avugaddigirish.github.io/AvugaddiGirish_LandingPage/]
 
 ## ✨ Key Features
 * **Generative Canvas Background:** A custom hardware-accelerated particle system using the `Path2D` API to render drifting tech vectors (Python logo, microchips, n8n nodes, etc.).
